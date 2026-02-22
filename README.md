@@ -263,6 +263,10 @@ Smart safety prototypes
 
 This project demonstrates a practical, embedded alcohol detection system using MQ-3 and Arduino Nano. Through proper calibration and threshold-based logic, it provides a reliable and cost-effective safety alert system.
 
+### images
+![WhatsApp Image 2026-02-22 at 10 29 06](https://github.com/user-attachments/assets/399024c5-441a-4b5b-90e0-1f83dce070f0)
+![WhatsApp Image 2026-02-22 at 10 29 06 (1)](https://github.com/user-attachments/assets/0adce9c3-6dc6-40ff-b96f-9b7a329e3b37)
+
+![WhatsApp Image 2026-02-22 at 10 29 07](https://github.com/user-attachments/assets/46d1e4fe-83c5-45df-9a5f-67467485087b)
 
 
-Tell me which one you want 😄
